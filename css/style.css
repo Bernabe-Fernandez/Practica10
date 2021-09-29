@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.head {
+  background-image: url(../img/unach-banner.jpg);
+  height: 250px;
+}
+
+.centrar {
+  padding: 20px;
+}
+
+.galeria img {
+  width: 800px;
+  margin: 10px;
+}
+
+article {
+  background-color: rgb(199, 247, 247);
+}
+
+nav {
+  background-color: rgb(56, 55, 55);
+}
+
+footer {
+  background-color: slategrey;
+  padding: 20px;
+}
+
+footer p {
+  color: #fff;
+}
